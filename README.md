@@ -4,11 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">White-label WordPress Developer · Speed Optimizer · SEO-minded Builder</h3>
+<h3 align="center">White-label WordPress Developer · Speed Optimizer · SEO Expert</h3>
 
 <p align="center">
-  I help agencies launch WordPress sites that load in under 2 seconds, rank well, and work beautifully on mobile —
-  delivered under your brand, on your timeline.
+  I help agencies launch lightning-fast (in 2s), SEO-friendly websites through white-label WordPress development | 600+ projects completed | 350+ clients | 80+ 1:1 meetings
 </p>
 
 <p align="center">
