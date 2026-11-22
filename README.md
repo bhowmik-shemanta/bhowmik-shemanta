@@ -14,7 +14,6 @@
   <a href="https://shemantabhowmik.com"><img src="https://img.shields.io/badge/Website-shemantabhowmik.com-077857?style=for-the-badge&labelColor=0e1311" alt="Website"></a>
   <a href="https://www.linkedin.com/in/shemanta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-077857?style=for-the-badge&logo=linkedin&logoColor=c3fe63&labelColor=0e1311" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/channel/UCULY_oXh5W2pmsF0TtFSOYg"><img src="https://img.shields.io/badge/YouTube-Watch-077857?style=for-the-badge&logo=youtube&logoColor=c3fe63&labelColor=0e1311" alt="YouTube"></a>
-  <a href="https://www.facebook.com/bhowmik.shemanta"><img src="https://img.shields.io/badge/Facebook-Follow-077857?style=for-the-badge&logo=facebook&logoColor=c3fe63&labelColor=0e1311" alt="Facebook"></a>
 </p>
 
 ---
