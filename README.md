@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shemantabhowmik.com">
-    <img src="./banner.svg" alt="Shemanta Bhowmik — White-label WordPress developer for agencies" width="100%">
+    <img src="./banner.svg" alt="Shemanta Bhowmik White-label WordPress developer for agencies" width="100%">
   </a>
 </p>
 
@@ -18,24 +18,24 @@
 
 ---
 
-### / 01 — About
+### About
 
-I've been building for the web since 2018. As a former Senior Project Manager at **MainStreet Design** (US agency), I led delivery on **120+ websites**, and across my freelance work I've shipped **600+ projects for 350+ clients**.
+I've been building for the web since 2018. As a former Senior Project Manager, Team Leader, and Lead Developer, I've developed and shipped **600+ projects for 350+ clients**. In my career, I worked with local and international clients from the USA, the UK, Canada, Australia, Europe, etc.
 
-Today I work as a quiet extension of agency teams: you own the client relationship, I handle the build — clean code, fast pages, and no surprises at handoff.
+Today I work as a quiet extension of agency teams: you own the client relationship, I handle the build clean code, fast pages, and no surprises at handoff.
 
-### / 02 — What I do
+### What I do
 
 | | |
 |---|---|
 | ⚡ **Speed & Core Web Vitals** | Turning slow WordPress sites into sub-2-second experiences |
-| 🧱 **Custom WordPress builds** | Bricks, GeneratePress, Elementor — plus custom themes & plugins in PHP |
+| 🧱 **Custom WordPress builds** | Bricks, GeneratePress, Elementor plus custom themes & plugins in PHP |
 | 🛒 **eCommerce** | WooCommerce and Shopify stores built to convert |
 | 🔍 **SEO-ready foundations** | Technical SEO, clean markup, schema, mobile-first layouts |
 | 🔁 **Migrations & rescues** | Moving and fixing sites without downtime or lost rankings |
 | 🎓 **LMS & communities** | LearnDash and BuddyBoss platforms |
 
-### / 03 — Toolkit
+### Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/WordPress-0e1311?style=flat-square&logo=wordpress&logoColor=c3fe63">
@@ -50,7 +50,7 @@ Today I work as a quiet extension of agency teams: you own the client relationsh
   <img src="https://img.shields.io/badge/Wix-0e1311?style=flat-square&logo=wix&logoColor=c3fe63">
 </p>
 
-### / 04 — Let's work together
+### 04 Let's work together
 
 Running an agency and need a reliable WordPress partner? **[Book a call at shemantabhowmik.com →](https://shemantabhowmik.com)**
 
