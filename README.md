@@ -52,6 +52,6 @@ Today I work as a quiet extension of agency teams: you own the client relationsh
 
 ### 04 Let's work together
 
-Running an agency and need a reliable WordPress partner? **[Book a call at shemantabhowmik.com →](https://shemantabhowmik.com)**
+Running an agency and need a reliable WordPress partner? **[Book a call at shemantabhowmik.com →](https://calendly.com/shemanta/30min)**
 
 <p align="center"><sub>© Shemanta Bhowmik · Built with care in Dhaka, Bangladesh</sub></p>
